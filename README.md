@@ -1,5 +1,5 @@
 This is course project of [ECE276A(UCSD)](https://natanaso.github.io/ece276a/). Thanks for the instructor and TAs for providing the test dataset and help.
-### [Formal report](./SLAM_KL.pdf)
+### [Formal report](./SLAM_KF.pdf)
 * Problem formulation
 * Algorithm description
 * Test results on three datasets
