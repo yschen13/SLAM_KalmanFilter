@@ -4,8 +4,9 @@ This is course project of [ECE276A(UCSD)](https://natanaso.github.io/ece276a/). 
 * Algorithm description
 * Test results on three datasets
 
-### 
-
+### Sensor on the vehicle
+* IMU (100Hz): data/*.npz, angular/linear velocity of the car
+* Camera (20Hz): data/*.avi, video taken from the car with object-tracking results
 
 ### Scripts: 
 * utils.py: 
